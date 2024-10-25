@@ -1,4 +1,4 @@
 # MERN STACK 
  CRUD
 
-![Sample Image](./log in.PNG)
+![Registration Screenshot](./registration.PNG) 
