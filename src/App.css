@@ -1,0 +1,45 @@
+.container {
+    background-color: #e3f2fd; /* Light blue background for the container */
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.content {
+    background-color: #ffffff; /* White background for the form */
+}
+
+.heading {
+    font-family: 'Arial', sans-serif; /* Font styling for heading */
+    font-weight: bold;
+}
+
+.details {
+    font-weight: 500; /* Slightly bolder text for details */
+}
+.con{
+    margin-top: 60px;
+}
+
+/* login */
+.data {
+    background-color: #f8f9fa; /* Light background for the card */
+  }
+  
+  .btn-primary {
+    background-color: #007bff; /* Custom blue */
+    border: none; /* Remove border */
+  }
+  
+  .btn-secondary {
+    background-color: #6c757d; /* Custom gray */
+    border: none; /* Remove border */
+  }
+  
+  h2 {
+    color: #007bff; /* Title color */
+  }
+  
+  .log{
+
+      margin-top: 50px;
+  }
